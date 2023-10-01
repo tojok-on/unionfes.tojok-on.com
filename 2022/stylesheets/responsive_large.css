@@ -1,0 +1,76 @@
+@media screen and (min-width: 960px) {
+  .open-btn {
+    display: none;
+  }
+
+  .promotion-video {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+
+  /*PC用メニュー*/
+  ul.menu-tab {
+    display: block;
+    width: 96%;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 5px 2%;
+    padding: 3px 0px;
+  }
+
+  ul.menu-tab li {
+    display: inline-block;
+    float: left;
+    width: 14%;
+    text-align: center;
+  }
+
+  ul.menu-tab li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+
+  ul.menu-tab li a:hover {
+    color: #79E8F2;
+  }
+
+  .top-front img {
+    width: 35%;
+  }
+
+  .band-card {
+    width: 23%;
+  }
+
+  .band-card img {
+    height: 17vw;
+  }
+
+  .modal-body {
+    margin-top: 50px;
+    width: 70%;
+  }
+
+  .modal-content img {
+    width: 80%;
+    margin: 20px 0px;
+  }
+
+  .modal-content {
+    padding: 30px;
+  }
+
+  .modal-content iframe, .music-link-btn {
+    width: 80%;
+  }
+
+  .card {
+    padding: 15px 5%;
+  }
+
+  #time-table-image {
+    width: 50%;
+  }
+}

@@ -1,0 +1,56 @@
+@media screen and (max-width: 1200px) {
+	.slider {
+		width: auto;
+		height: 100%;
+		min-height: 100vh;
+		top: 50%;
+		left: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	
+	.slider-inner {
+		width: auto;
+		height: 100%;
+	}
+	
+	.slider-item {
+		width: auto;
+		height: 100%;
+	}
+	
+	.slider-item img {
+		width: auto;
+		height: 100%;
+	}
+	
+	.slider-item2 {
+		width: auto;
+		height: 100%;
+	}
+	
+	.slider-item2 img {
+		width: auto;
+		height: 100%;
+	}
+	
+	.logo-img img {
+		width: 60%;
+	}
+	
+	.logo-img p {
+		font-size: medium;
+	}
+	
+	.band-card {
+		width: 48%;
+	}
+	
+	.band-card img {
+		height: 17vw;
+	}
+	
+	.modal-body {
+		width: 80%;
+	}
+}

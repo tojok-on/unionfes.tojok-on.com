@@ -1,0 +1,26 @@
+@media screen and (max-width: 780px) {
+	nav.menu-content ul li {
+		width: 50%;
+	}
+	
+	.logo-img img {
+		width: 70%;
+	}
+	
+	.logo-img p {
+		font-size: small;
+	}
+	
+	.content-inner {
+		width: 90%;
+		min-width: auto;
+	}
+	
+	.band-card img {
+		height: 22vw;
+	}
+	
+	.modal-body {
+		width: 90%;
+	}
+}
