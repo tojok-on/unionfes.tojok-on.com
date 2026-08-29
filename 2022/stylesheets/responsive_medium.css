@@ -1,0 +1,36 @@
+@media screen and (min-width: 481px) {
+  .promotion-video {
+    width: 75%;
+  }
+
+  .top-front img {
+    width: 40%;
+  }
+
+  .band-card {
+    width: 31%;
+  }
+
+  .band-card img {
+    height: 23vw;
+  }
+
+  .modal-body {
+    width: 85%;
+  }
+
+  .card {
+    padding: 15px 30px;
+  }
+
+  #time-table-image {
+    width: 75%;
+  }
+
+  .goods-img {
+    display: inline-block;
+    width: 40%;
+    margin: 10px 5%;
+    float: left;
+  }
+}

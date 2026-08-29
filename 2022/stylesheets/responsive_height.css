@@ -1,0 +1,18 @@
+@media screen and (max-height: 481px) {
+
+  .top-front img {
+    display: none;
+  }
+
+  .top-content .background-img2 {
+    display: block;
+    position: absolute;
+    width: 60vh;
+    min-width: 200px;
+    object-fit: cover;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+}
